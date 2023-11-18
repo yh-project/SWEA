@@ -1,0 +1,1 @@
+print(*[1<<i for i in range(int(input())+1)], sep=" ")

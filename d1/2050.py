@@ -1,0 +1,1 @@
+print(*[f"{ord(c)-65+1}" for c in input()], sep=' ')
